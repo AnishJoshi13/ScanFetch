@@ -1,4 +1,4 @@
-# Product Details Scraper
+# ScanFetch
 
 This Python application extracts product details including images and descriptions from various shopping websites based on provided product titles. It utilizes web scraping techniques to fetch information and stores the data in an Excel file for easy access.
 
